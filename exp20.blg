@@ -1,0 +1,85 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: exp20.aux
+The style file: elsarticle-num.bst
+Illegal, another \bibstyle command---line 519 of file exp20.aux
+ : \bibstyle
+ :          {ACM-Reference-Format}
+I'm skipping whatever remains of this command
+Database file #1: references15.bib
+You're missing a field name---line 107 of file references15.bib
+ : 
+ : % author={The MathWorks Inc.},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 926 of file references15.bib
+ : @inproceedings{zhang2009finger
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 935 of file references15.bib
+ : @inproceedings{Lin2009Finger
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 942 of file references15.bib
+ : @article{zhang2010online
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 953 of file references15.bib
+ : @article{zhang2011ensemble
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 964 of file references15.bib
+ : @article{zhang2012phase
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 984 of file references15.bib
+ : @inproceedings{Yu2010Feature
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1008 of file references15.bib
+ : @inproceedings{Modi2007Impact
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1381 of file references15.bib
+ : @article{Lu2014Finger
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2139 of file references15.bib
+ : @misc{DatabasePolyUFKP
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2545 of file references15.bib
+ : @article{saugirouglu2009intelligent
+ :                                    ,
+I'm skipping whatever remains of this entry
+Warning--I'm ignoring omar2018deep's extra "publisher" field
+--line 2577 of file references15.bib
+I was expecting a `,' or a `}'---line 2665 of file references15.bib
+ : 
+ : @misc{Radon_Transform,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2670 of file references15.bib
+ : 
+ : @misc{SIFT_FeatureExtreaction,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2675 of file references15.bib
+ : 
+ : @misc{PNN_MatlabCode,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2680 of file references15.bib
+ : 
+ : @misc{Eigenvalues_Eigenvectors,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2685 of file references15.bib
+ : 
+ : @misc{NEURO_technology,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty pages in matyavs2000biometric
+Warning--empty year in varadegraphical
+Warning--empty year in raja9investigations
+Warning--empty pages in Al-Nima2015Human
+Warning--empty pages in wasnik2018baseline
+(There were 17 error messages)

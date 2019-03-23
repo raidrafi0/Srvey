@@ -1,0 +1,721 @@
+\begin{thebibliography}{100}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Jain2004AnIntroduction}
+A.~K. Jain, A.~Ross, S.~Prabhakar, An introduction to biometric recognition,
+  IEEE Transactions on Circuits and Systems for Video Technology 14~(1) (2004)
+  4--20.
+
+\bibitem{jaswal2016knuckle}
+G.~Jaswal, A.~Kaul, R.~Nath, Knuckle print biometrics and fusion
+  schemes--overview, challenges, and solutions, ACM Computing Surveys (CSUR)
+  49~(2) (2016) 34.
+
+\bibitem{dantcheva2016else}
+A.~Dantcheva, P.~Elia, A.~Ross, What else does your biometric data reveal? a
+  survey on soft biometrics, IEEE Transactions on Information Forensics and
+  Security 11~(3) (2016) 441--467.
+
+\bibitem{matyavs2000biometric}
+V.~Maty{\'a}{\v{s}}, Z.~R{\i}ha, Biometric authentication systems, in:
+  verf{\"u}gbar {\"u}ber: http://grover. informatik. uni-augsburg.
+  de/lit/MM-Seminar/Privacy/riha00biometric. pdf, Citeseer, 2000.
+
+\bibitem{li2004personal}
+Q.~Li, Z.~Qiu, D.~Sun, J.~Wu, Personal identification using knuckleprint, in:
+  Advances in Biometric Person Authentication, Springer, 2004, pp. 680--689.
+
+\bibitem{Al-Nima2017Signal}
+R.~R.~O. Al-Nima, Signal processing and machine learning techniques for human
+  verification based on finger textures, {PhD} thesis, School of Engineering,
+  Newcastle University (2017).
+
+\bibitem{Halici1996Fingerprint}
+U.~Halici, G.~Ongun, Fingerprint classification through self-organizing feature
+  maps modified to treat uncertainties, Proceedings of the IEEE 84~(10) (1996)
+  1497--1512.
+
+\bibitem{Gil2013Fingerprint}
+R.~Gil, G.~D. Orueta, M.~Tawfik, F.~Garcia-Loro, A.~P. Martin, E.~Sancristobal,
+  S.~Martin, M.~Castro, Fingerprint verification system in tests in moodle,
+  IEEE Revista Iberoamericana de Tecnologias del Aprendizaje 8~(1) (2013)
+  23--30.
+
+\bibitem{Bifari2014Automated}
+E.~N. Bifari, L.~A. Elrefaei, Automated fingerprint identification system based
+  on weighted feature points matching algorithm, in: International Conference
+  on Advances in Computing, Communications and Informatics (ICACCI), 2014, pp.
+  2212--2217.
+
+\bibitem{Conti2010AFrequency}
+V.~Conti, C.~Militello, F.~Sorbello, S.~Vitabile, A frequency-based approach
+  for features fusion in fingerprint and iris multimodal biometric
+  identification systems, IEEE Transactions on Systems, Man, and Cybernetics,
+  Part C (Applications and Reviews) 40~(4) (2010) 384--395.
+
+\bibitem{mukhaiyar2015cancellable}
+R.~Mukhaiyar, Cancellable biometric using matrix approaches, {PhD} thesis,
+  School of Electrical and Electronic Engineering, Newcastle University (2015).
+
+\bibitem{Makrushin2015Forensic}
+A.~Makrushin, K.~Qian, C.~Vielhauer, T.~Scheidat, Forensic analysis: on the
+  capability of optical sensors to visualize latent fingerprints on rubber
+  gloves, in: 3rd IEEE International Workshop on Biometrics and Forensics
+  (IWBF), 2015, pp. 1--6.
+
+\bibitem{Kotzerke2015Discriminating}
+J.~Kotzerke, S.~A. Davis, R.~Hayes, L.~J. Spreeuwers, R.~N.~J. Veldhuis, K.~J.
+  Horadam, Discriminating fingermarks with evidential value for forensic
+  comparison, in: 3rd IEEE International Workshop on Biometrics and Forensics
+  (IWBF), 2015, pp. 1--6.
+
+\bibitem{Merkel2014Latent}
+R.~Merkel, J.~Dittmann, M.~Hildebrandt, Latent fingerprint persistence: A new
+  temporal feature space for forensic trace evidence analysis, in: IEEE
+  International Conference on Image Processing (ICIP), 2014, pp. 4952--4956.
+
+\bibitem{Ezeobiejesi2016Latent}
+J.~Ezeobiejesi, B.~Bhanu, Latent fingerprint image segmentation using fractal
+  dimension features and weighted extreme learning machine ensemble, in: IEEE
+  Conference on Computer Vision and Pattern Recognition Workshops (CVPRW),
+  2016, pp. 214--222.
+
+\bibitem{Zhang2014Adaptive}
+N.~Zhang, Y.~Zang, X.~Yang, X.~Jia, J.~Tian, Adaptive orientation model fitting
+  for latent overlapped fingerprints separation, IEEE Transactions on
+  Information Forensics and Security 9~(10) (2014) 1547--1556.
+
+\bibitem{Paulino2013Latent}
+A.~A. Paulino, J.~Feng, A.~K. Jain, Latent fingerprint matching using
+  descriptor-based hough transform, IEEE Transactions on Information Forensics
+  and Security 8~(1) (2013) 31--45.
+
+\bibitem{Modi2007Impact}
+S.~Modi, S.~Elliott, J.~Whetsone, H.~Kim, Impact of age groups on fingerprint
+  recognition performance, in: IEEE Workshop on Automatic Identification
+  Advanced Technologies, 2007, pp. 19--23.
+
+\bibitem{kabadi1991classification}
+U.~M. Kabadi, Classification of diabetes according to national diabetic data
+  group, Diabetes care 14~(7) (1991) 612--613.
+
+\bibitem{Sanchez-Reillo2000Biometric}
+R.~Sanchez-Reillo, C.~Sanchez-Avila, A.~Gonzalez-Marcos, Biometric
+  identification through hand geometry measurements, IEEE Transactions on
+  Pattern Analysis and Machine Intelligence 22~(10) (2000) 1168--1171.
+
+\bibitem{Ayurzana2013Astudy}
+O.~Ayurzana, B.~Pumbuurei, H.~Kim, A study of hand-geometry recognition system,
+  in: Ifost, Vol.~2, 2013, pp. 132--135.
+
+\bibitem{Svoboda2015Contactless}
+J.~Svoboda, M.~M. Bronstein, M.~Drahansky, Contactless biometric hand geometry
+  recognition using a low-cost 3d camera, in: International Conference on
+  Biometrics (ICB), 2015, pp. 452--457.
+
+\bibitem{Malassiotis2006Personal}
+S.~Malassiotis, N.~Aifanti, M.~G. Strintzis, Personal authentication using 3-d
+  finger geometry, IEEE Transactions on Information Forensics and Security
+  1~(1) (2006) 12--21.
+
+\bibitem{Aghili2010Personal}
+B.~Aghili, H.~Sadjedi, Personal identification/verification by using four
+  fingers, in: 3rd International Congress on Image and Signal Processing,
+  Vol.~6, 2010, pp. 2619--2623.
+
+\bibitem{Liu2015Hand}
+F.~Liu, H.~Liu, L.~Gao, Hand recognition based on finger-contour and {PSO}, in:
+  Proceedings of International Conference on Intelligent Computing and Internet
+  of Things, 2015, pp. 35--39.
+
+\bibitem{Kang2014Pose}
+W.~Kang, Q.~Wu, Pose-invariant hand shape recognition based on finger geometry,
+  IEEE Transactions on Systems, Man, and Cybernetics: Systems 44~(11) (2014)
+  1510--1521.
+
+\bibitem{Kang2010Multimodal}
+B.~J. Kang, K.~R. Park, Multimodal biometric method based on vein and geometry
+  of a single finger, IET Computer Vision 4~(3) (2010) 209--217.
+
+\bibitem{Yu2010Feature}
+P.~Yu, D.~Xu, H.~Zhou, Feature level fusion using palmprint and finger geometry
+  based on canonical correlation analysis, in: 3rd International Conference on
+  Advanced Computer Theory and Engineering (ICACTE), Vol.~5, 2010, pp.
+  V5--260--V5--264.
+
+\bibitem{Joshi2014Enhancing}
+A.~A. Joshi, P.~Deshpande, A.~S. Tavildar, Enhancing accuracy for personal
+  identification usinghierarchical based fusion of finger geometry and palm
+  print modalities, in: International Conference on Electronics and
+  Communication Systems (ICECS), 2014, pp. 1--4.
+
+\bibitem{Anitha2014Anovel}
+M.~L. Anitha, K.~A.~R. Rao, A novel bimodal biometric identification system
+  based on finger geometry and palm print, in: 19th International Conference on
+  Digital Signal Processing, 2014, pp. 574--579.
+
+\bibitem{Ribaric2005ABiometric}
+S.~Ribaric, I.~Fratric, A biometric identification system based on eigenpalm
+  and eigenfinger features, IEEE Transactions on Pattern Analysis and Machine
+  Intelligence 27~(11) (2005) 1698--1709.
+
+\bibitem{Al-Nima2017Robust}
+R.~R.~O. Al-Nima, S.~S. Dlay, S.~A.~M. Al-Sumaidaee, W.~L. Woo, J.~A. Chambers,
+  Robust feature extraction and salvage schemes for finger texture based
+  biometrics, IET Biometrics 6~(2) (2017) 43--52.
+\newblock \href {https://doi.org/10.1049/iet-bmt.2016.0090}
+  {\path{doi:10.1049/iet-bmt.2016.0090}}.
+
+\bibitem{Al-Nima2017finger}
+R.~Al-Nima, M.~Abdullah, M.~Al-Kaltakchi, S.~Dlay, W.~Woo, J.~Chambers, Finger
+  texture biometric verification exploiting multi-scale sobel angles local
+  binary pattern features and score-based fusion, Elsevier, Digital Signal
+  Processing 70 (2017) 178--189.
+
+\bibitem{hartung2012vascular}
+D.~Hartung, Vascular pattern recognition: and its application in
+  privacy-preserving biometric online-banking systems, Ph.D. thesis, Gjøvik
+  University College (2012).
+
+\bibitem{Kumar2012Human}
+{A. Kumar and Y. Zhou}, Human identification using finger images, IEEE
+  Transactions on Image Processing 21~(4) (2012) 2228--2244.
+
+\bibitem{Lu2014Finger}
+Y.~Lu, S.~Yoon, D.~Park, Finger vein identification system using two cameras,
+  Electronics Letters 50~(22) (2014) 1591--1593.
+
+\bibitem{Lee2009Restoration}
+E.~C. Lee, K.~R. Park, Restoration method of skin scattering blurred vein image
+  for finger vein recognition, Electronics Letters 45~(21) (2009) 1074--1076.
+
+\bibitem{Zhang2006Multiscale}
+Z.~Zhang, S.~Ma, X.~Han, Multiscale feature extraction of finger-vein patterns
+  based on curvelets and local interconnection structure neural network, in:
+  18th International Conference on Pattern Recognition (ICPR'06), Vol.~4, 2006,
+  pp. 145--148.
+
+\bibitem{Wang2010User}
+D.~Wang, J.~Li, G.~Memik, User identification based on finger-vein patterns for
+  consumer electronics devices, IEEE Transactions on Consumer Electronics
+  56~(2) (2010) 799--804.
+
+\bibitem{Liu2012AnEmbedded}
+Z.~Liu, S.~Song, An embedded real-time finger-vein recognition system for
+  mobile devices, IEEE Transactions on Consumer Electronics 58~(2) (2012)
+  522--527.
+
+\bibitem{Kumar2014Importance}
+A.~Kumar, Importance of being unique from finger dorsal patterns: Exploring
+  minor finger knuckle patterns in verifying human identities, IEEE
+  Transactions on Information Forensics and Security 9~(8) (2014) 1288--1298.
+
+\bibitem{aoyama2013multi}
+S.~Aoyama, K.~Ito, T.~Aoki, A multi-finger knuckle recognition system for door
+  handle, in: 6th IEEE International Conference on Biometrics: Theory,
+  Applications and Systems (BTAS), 2013, pp. 1--7.
+
+\bibitem{zhang2012phase}
+L.~Zhang, L.~Zhang, D.~Zhang, Z.~Guo, Phase congruency induced local features
+  for finger-knuckle-print recognition, Pattern Recognition 45~(7) (2012)
+  2522--2531.
+
+\bibitem{zhang2011ensemble}
+{L. Zhang, L. Zhang, D. Zhang, and H. Zhu}, Ensemble of local and global
+  information for finger--knuckle-print recognition, Pattern Recognition 44~(9)
+  (2011) 1990--1998.
+
+\bibitem{Kumar2009Personal}
+A.~Kumar, C.~Ravikanth, Personal authentication using finger knuckle surface,
+  IEEE Transactions on Information Forensics and Security 4~(1) (2009) 98--110.
+
+\bibitem{zhang2009finger}
+L.~Zhang, L.~Zhang, D.~Zhang, Finger-knuckle-print verification based on
+  band-limited phase-only correlation, in: Computer analysis of images and
+  patterns, Springer, 2009, pp. 141--148.
+
+\bibitem{Lin2009Finger}
+L.~Zhang, D.~Zhang, D.~Zhang, Finger-knuckle-print: A new biometric identifier,
+  in: 16th IEEE International Conference on Image Processing (ICIP), 2009, pp.
+  1981--1984.
+
+\bibitem{zhang2010online}
+L.~Zhang, L.~Zhang, D.~Zhang, H.~Zhu, Online finger-knuckle-print verification
+  for personal authentication, Pattern recognition 43~(7) (2010) 2560--2571.
+
+\bibitem{DatabasePolyUFKP}
+\href{http://www4.comp.polyu.edu.hk/~biometrics/FKP.htm}{The {H}ong {K}ong
+  {P}olytechnic {U}niversity {F}inger-{K}nuckle-{P}rint {D}atabase}.
+\newline\urlprefix\url{http://www4.comp.polyu.edu.hk/~biometrics/FKP.htm}
+
+\bibitem{Wang2008Study}
+C.~Wang, S.~Song, F.~Sun, L.~Mei, Study on finger-articular back texture
+  recognition, in: 9th International Conference on Signal Processing, 2008, pp.
+  2085--2091.
+
+\bibitem{Kumar2009Human}
+A.~Kumar, Y.~Zhou, Human identification using knucklecodes, in: 3rd IEEE
+  International Conference on Biometrics: Theory, Applications, and Systems,
+  2009, pp. 1--6.
+
+\bibitem{Databasever1IITDFK}
+\href{http://www.comp.polyu.edu.hk/~csajaykr/knuckle/iitd_knuckle.htm}{{IIT}
+  {D}elhi {F}inger {K}nuckle {D}atabase version 1.0}.
+\newline\urlprefix\url{http://www.comp.polyu.edu.hk/~csajaykr/knuckle/iitd_knuckle.htm}
+
+\bibitem{Databasever1PolyUCFKI}
+\href{http://www.comp.polyu.edu.hk/~csajaykr/myhome/database_request/fn1/knuckle.htm}{{T}he
+  {H}ong {K}ong {P}olytechnic {U}niversity {C}ontactless {F}inger {K}nuckle
+  {I}mages {D}atabase version 1.0}.
+\newline\urlprefix\url{http://www.comp.polyu.edu.hk/~csajaykr/myhome/database_request/fn1/knuckle.htm}
+
+\bibitem{Al-nima2010Design}
+R.~R. Al-nima, Design a biometric identification system based on the fusion of
+  hand geometry and backhand patterns, Iraqi Journal of Statistical Science
+  10~(17) (2010) 169--180.
+
+\bibitem{Al-Nima2017efficient}
+R.~R. Al-Nima, S.~S. Dlay, W.~L. Woo, J.~A. Chambers, Efficient finger
+  segmentation robust to hand alignment in imaging with application to human
+  verification, in: 5th IEEE International Workshop on Biometrics and Forensics
+  (IWBF), 2017, pp. 1--6.
+
+\bibitem{Le-qing2010multimodal}
+L.~Zhu, S.~Zhang, Multimodal biometric identification system based on finger
+  geometry, knuckle print and palm print, Pattern Recognition Letters 31~(12)
+  (2010) 1641--1649.
+
+\bibitem{anitha2016fusion}
+M.~Anitha, K.~R. Rao, Fusion of finger inner knuckle print and hand geometry
+  features to enhance the performance of biometric verification system, World
+  Academy of Science, Engineering and Technology, International Journal of
+  Electrical, Computer, Energetic, Electronic and Communication Engineering
+  10~(10) (2016) 1310--1315.
+
+\bibitem{xu2015illumination}
+X.~Xu, Q.~Jin, L.~Zhou, J.~Qin, T.-T. Wong, G.~Han, Illumination-invariant and
+  deformation-tolerant inner knuckle print recognition using portable devices,
+  Sensors 15~(2) (2015) 4326--4352.
+
+\bibitem{xu2015novel}
+X.-M. Xu, X.-Z. Lai, Q.~Jin, X.-H. Yuan, S.-L. Lai, Y.-W. Lin, J.-W. Huang, A
+  novel {IKP}-based biometric recognition using mobile phone camera,
+  International Journal of Distributed Sensor Networks 2015 (2015) 2.
+
+\bibitem{aykut2013aam}
+M.~Aykut, M.~Ekinci, A{AM}-based palm segmentation in unrestricted backgrounds
+  and various postures for palmprint recognition, Pattern Recognition Letters
+  34~(9) (2013) 955--962.
+
+\bibitem{Makul2014Biyometric}
+{\"O}.~Makul, M.~Ekinci, Biyometric identification based on knuckle prints, in:
+  22nd Signal Processing and Communications Applications Conference (SIU),
+  2014, pp. 1881--1884.
+
+\bibitem{makul2016palm}
+{\"O}.~Makul, M.~Ekinci, Palm and palm finger joint surfaces based
+  multibiometric approach, in: 39th IEEE International Conference on
+  Telecommunications and Signal Processing (TSP), 2016, pp. 665--668.
+
+\bibitem{liu2014ANew}
+M.~Liu, Y.~Tian, L.~Lihua, A new approach for inner-knuckle-print recognition,
+  Journal of Visual Languages \& Computing 25~(1) (2014) 33--42.
+
+\bibitem{liu2013InnerKnuckle}
+M.~Liu, J.~Yan, Inner-knuckle-print verification based on guided image
+  filtering, in: Proceedings of Chinese Intelligent Automation Conference,
+  Springer, 2013, pp. 477--484.
+
+\bibitem{liu2013Inner}
+M.~Liu, Y.~Tian, Y.~Ma, Inner-knuckle-print recognition based on improved
+  {L}{B}{P}, in: Proceedings of the 2012 International Conference on
+  Information Technology and Software Engineering, Springer, 2013, pp.
+  623--630.
+
+\bibitem{goudelis2008emerging}
+G.~Goudelis, A.~Tefas, I.~Pitas, Emerging biometric modalities: a survey,
+  Journal on Multimodal User Interfaces 2~(3-4) (2008) 217.
+
+\bibitem{garg2012biometric}
+S.~Garg, A.~Kumar, M.~Hanmandlu, Biometric authentication using finger nail
+  surface, in: Intelligent Systems Design and Applications (ISDA), 2012 12th
+  International Conference on, IEEE, 2012, pp. 497--502.
+
+\bibitem{garg2013unified}
+S.~Garg, A.~Kumar, M.~Hanmandlu, S.~Vasikarla, A unified authentication
+  framework using finger nail plate biometric, in: Technologies for Homeland
+  Security (HST), 2013 IEEE International Conference on, IEEE, 2013, pp.
+  651--657.
+
+\bibitem{varadegraphical}
+N.~Varade, A.~Keshatwar, A.~Dol, P.~Birajdar, S.~Bachpalle, Graphical captcha
+  based biometric authentication using finger nail plate, EPRA International
+  Journal of Research and Development (IJRD) 2~(3)  2017.
+
+\bibitem{easwaramoorthy2016biometric}
+S.~Easwaramoorthy, F.~Sophia, A.~Prathik, Biometric authentication using finger
+  nails, in: Emerging Trends in Engineering, Technology and Science (ICETETS),
+  International Conference on, IEEE, 2016, pp. 1--6.
+
+\bibitem{raja9investigations}
+S.~P. Raja, K.~Umamaheswari, B.~Soumiya, B.~Kokila, Investigations on finger
+  nail plates authentication, International Journal of Applied Engineering
+  Research 9~(21)  2014.
+
+\bibitem{kumar2014biometric}
+A.~Kumar, S.~Garg, M.~Hanmandlu, Biometric authentication using finger nail
+  plates, Expert systems with applications 41~(2) (2014) 373--386.
+
+\bibitem{garg2014finger}
+S.~Garg, A.~Kumar, M.~Hanmandlu, Finger nail plate: A new biometric identifier,
+  Proc in International Journal of Computer Information Systems and Industrial
+  Management Applications 6 (2014) 126--138.
+
+\bibitem{premakumari2016multimodal}
+L.~Premakumari, A.~Jothi, Multimodal biometric endorsement for secure internet
+  banking using skin spectroscopy, knuckles texture and finger nail
+  recognition, International Research Journal of Engineering and Technology
+  3~(2) (2016) 1086--1090.
+
+\bibitem{topping1998method}
+A.~Topping, V.~Kuperschmidt, A.~Gormley, Method and apparatus for the automated
+  identification of individuals by the nail beds of their fingernails, uS
+  Patent 5,751,835 (May~12 1998).
+
+\bibitem{devi2015study}
+M.~R. Devi, et~al., Study of nail unit using image processing methods, in:
+  Computer Communication and Informatics (ICCCI), 2015 International Conference
+  on, IEEE, 2015, pp. 1--6.
+
+\bibitem{Bhaskar2014Hand}
+B.~Bhaskar, S.~Veluchamy, Hand based multibiometric authentication using local
+  feature extraction, in: International Conference on Recent Trends in
+  Information Technology (ICRTIT), 2014, pp. 1--5.
+
+\bibitem{Michael2010Robust}
+G.~Michael, T.~Connie, A.~Jin, Robust palm print and knuckle print recognition
+  system using a contactless approach, in: 5th IEEE Conference on Industrial
+  Electronics and Applications (ICIEA), 2010, pp. 323--329.
+
+\bibitem{kulkarni2012secure}
+S.~Kulkarni, R.~Rout, Secure biometrics: Finger knuckle print, International
+  Journal of Advanced Research in Computer and Communication Engineering
+  1~(10).
+
+\bibitem{Multimodal2013Ravi}
+S.~{Ravi}, D.~P. {Mankame}, Multimodal biometric approach using fingerprint,
+  face and enhanced iris features recognition, in: 2013 International
+  Conference on Circuits, Power and Computing Technologies (ICCPCT), 2013, pp.
+  1143--1150.
+\newblock \href {https://doi.org/10.1109/ICCPCT.2013.6528884}
+  {\path{doi:10.1109/ICCPCT.2013.6528884}}.
+
+\bibitem{dev2017review}
+R.~Dev, R.~Khanam, Review on finger vein feature extraction methods, in: 2017
+  International Conference on Computing, Communication and Automation (ICCCA),
+  IEEE, 2017, pp. 1209--1213.
+
+\bibitem{Sadik2017Asurvey}
+M.~A. {Sadik}, M.~N. {Al-Berry}, M.~{Roushdy}, A survey on the finger knuckle
+  prints biometrie, in: 2017 Eighth International Conference on Intelligent
+  Computing and Information Systems (ICICIS), 2017, pp. 197--204.
+\newblock \href {https://doi.org/10.1109/INTELCIS.2017.8260036}
+  {\path{doi:10.1109/INTELCIS.2017.8260036}}.
+
+\bibitem{Ribaric2005Anonline}
+S.~Ribaric, I.~Fratric, An online biometric authentication system based on
+  eigenfingers and finger-geometry, in: 13th European Signal Processing
+  Conference, 2005, pp. 1--4.
+
+\bibitem{Ferrer2007Low}
+M.~Ferrer, A.~Morales, C.~Travieso, J.~Alonso, Low cost multimodal biometric
+  identification system based on hand geometry, palm and finger print texture,
+  in: 41st Annual IEEE International Carnahan Conference on Security
+  Technology, 2007, pp. 52--58.
+
+\bibitem{ying2007identity}
+H.~Ying, T.~Tieniu, S.~Zhenan, H.~Yufei, Identity verification by using
+  handprint, in: International Conference on Biometrics, Springer, 2007, pp.
+  328--337.
+
+\bibitem{Pavesic2009Finger-based}
+N.~Pavesic, S.~Ribaric, B.~Grad, Finger-based personal authentication: a
+  comparison of feature-extraction methods based on principal component
+  analysis, most discriminant features and regularised-direct linear
+  discriminant analysis, IET Signal Processing 3~(4) (2009) 269--281.
+
+\bibitem{Al-Nima2015Human}
+R.~R. Al-Nima, S.~S. Dlay, W.~L. Woo, J.~A. Chambers, Human authentication with
+  finger textures based on image feature enhancement, in: 2nd IET International
+  Conference on Intelligent Signal Processing (ISP), 2015.
+
+\bibitem{michael2010innovative}
+G.~K.~O. Michael, T.~Connie, A.~T.~B. Jin, An innovative contactless palm print
+  and knuckle print recognition system, Pattern Recognition Letters 31~(12)
+  (2010) 1708--1719.
+
+\bibitem{Kanhangad2011AUnified}
+V.~Kanhangad, A.~Kumar, D.~Zhang, A unified framework for contactless hand
+  verification, IEEE Transactions on Information Forensics and Security 6~(3)
+  (2011) 1014--1027.
+
+\bibitem{Goh2010Bi-modal}
+M.~K. Goh, C.~Tee, A.~B. Teoh, Bi-modal palm print and knuckle print
+  recognition system, Journal of IT in Asia 3 (2010) 53--66.
+
+\bibitem{kumar2011contactless}
+A.~Kumar, Y.~Zhou, Contactless fingerprint identification using level zero
+  features, in: IEEE Computer Society Conference on Computer Vision and Pattern
+  Recognition Workshops (CVPRW), 2011, pp. 114--119.
+
+\bibitem{zhang2012hand}
+Y.~Zhang, D.~Sun, Z.~Qiu, Hand-based single sample biometrics recognition,
+  Neural Computing and Applications 21~(8) (2012) 1835--1844.
+
+\bibitem{stein2013video}
+C.~Stein, V.~Bouatou, C.~Busch, Video-based fingerphoto recognition with
+  anti-spoofing techniques with smartphone cameras, in: Biometrics Special
+  Interest Group (BIOSIG), 2013 International Conference of the, IEEE, 2013,
+  pp. 1--12.
+
+\bibitem{sankaran2015Onsmartphone}
+A.~Sankaran, A.~Malhotra, A.~Mittal, M.~Vatsa, R.~Singh, On smartphone camera
+  based fingerphoto authentication, in: Biometrics Theory, Applications and
+  Systems (BTAS), 2015 IEEE 7th International Conference on, IEEE, 2015, pp.
+  1--7.
+
+\bibitem{malhotra2017fingerphoto}
+A.~Malhotra, A.~Sankaran, A.~Mittal, M.~Vatsa, R.~Singh, Fingerphoto
+  authentication using smartphone camera captured under varying environmental
+  conditions, Human Recognition in Unconstrained Environments: Using Computer
+  Vision, Pattern Recognition and Machine Learning Methods for Biometrics
+  (2017) 119.
+
+\bibitem{Debayan2018matching}
+D.~Deb, T.~Chugh, J.~Engelsma, K.~Cao, N.~Nain, J.~Kendall, A.~K. Jain,
+  Matching fingerphotos to slap fingerprint images, arXiv preprint
+  arXiv:1804.08122.
+
+\bibitem{Wasnik2018Improved}
+P.~{Wasnik}, R.~{Ramachandra}, M.~{Stokkenes}, K.~{Raja}, C.~{Busch}, Improved
+  fingerphoto verification system using multi-scale second order local
+  structures, in: 2018 International Conference of the Biometrics Special
+  Interest Group (BIOSIG), 2018, pp. 1--5.
+\newblock \href {https://doi.org/10.23919/BIOSIG.2018.8553577}
+  {\path{doi:10.23919/BIOSIG.2018.8553577}}.
+
+\bibitem{wasnik2018baseline}
+P.~Wasnik, M.~Stokkenes, M.~Dunfjeld, R.~Ramachandra, K.~Raja, C.~Busch,
+  Baseline evaluation of smartphone based finger-photo verification system: A
+  preliminary study of technology readiness, in: Proceedings of the 11th
+  Norwegian Information Security Conference, 2018.
+
+\bibitem{Weissenfeld2018contactless}
+A.~Weissenfeld, B.~Strobl, F.~Daubner, Contactless finger and face capturing on
+  a secure handheld embedded device, in: 2018 Design, Automation \& Test in
+  Europe Conference \& Exhibition (DATE), IEEE, 2018, pp. 1321--1326.
+
+\bibitem{otsu1975threshold}
+N.~Otsu, A threshold selection method from gray-level histograms, IEEE
+  Transactions on Systems, Man, and Cybernetics 9~(1) (1979) 62--66.
+
+\bibitem{MAC2018contactless}
+A.~{MAC}, K.~{Nguyen}, J.~{Banks}, V.~{Chandran}, Contactless multiple finger
+  segments based identity verification using information fusion from higher
+  order spectral invariants, in: 2018 15th IEEE International Conference on
+  Advanced Video and Signal Based Surveillance (AVSS), 2018, pp. 1--6.
+\newblock \href {https://doi.org/10.1109/AVSS.2018.8639153}
+  {\path{doi:10.1109/AVSS.2018.8639153}}.
+
+\bibitem{Jahan2018Contactless}
+M.~{Akmal-Jahan}, J.~{Banks}, I.~{Tomeo-Reyes}, V.~{Chandran}, Contactless
+  finger recognition using invariants from higher order spectra of ridge
+  orientation profiles, in: 2018 25th IEEE International Conference on Image
+  Processing (ICIP), 2018, pp. 2012--2016.
+\newblock \href {https://doi.org/10.1109/ICIP.2018.8451664}
+  {\path{doi:10.1109/ICIP.2018.8451664}}.
+
+\bibitem{Chopra2018Unconstrained}
+S.~{Chopra}, A.~{Malhotra}, M.~{Vatsa}, R.~{Singh}, Unconstrained fingerphoto
+  database, in: 2018 IEEE/CVF Conference on Computer Vision and Pattern
+  Recognition Workshops (CVPRW), 2018, pp. 630--6308.
+\newblock \href {https://doi.org/10.1109/CVPRW.2018.00093}
+  {\path{doi:10.1109/CVPRW.2018.00093}}.
+
+\bibitem{Badrinarayanan2017SegNet}
+V.~{Badrinarayanan}, A.~{Kendall}, R.~{Cipolla}, Segnet: A deep convolutional
+  encoder-decoder architecture for image segmentation, IEEE Transactions on
+  Pattern Analysis and Machine Intelligence 39~(12) (2017) 2481--2495.
+\newblock \href {https://doi.org/10.1109/TPAMI.2016.2644615}
+  {\path{doi:10.1109/TPAMI.2016.2644615}}.
+
+\bibitem{Haar_Wavelet}
+{H}aar wavelet image compression,
+  \url{https://uk.mathworks.com/matlabcentral/fileexchange/57392-haar-wavelet-image-compression}.
+
+\bibitem{Ridgelet_Transform}
+{R}idgelet and {C}urvelet first generation toolbox,
+  \url{https://uk.mathworks.com/matlabcentral/fileexchange/31559-ridgelet-and-curvelet-first-generation-toolbox},.
+
+\bibitem{Eigenvalues_Eigenvectors}
+{E}igenvalues and {E}igenvectors,
+  \url{https://uk.mathworks.com/help/matlab/ref/eig.html?searchHighlight=eigenvector&s_tid=doc_srchtitle},.
+
+\bibitem{gabor_filter}
+{G}abor feature extraction,
+  \url{https://uk.mathworks.com/matlabcentral/fileexchange/44630-gabor-feature-extraction}.
+
+\bibitem{Zhang2010hand}
+Y.~Zhang, D.~Sun, Z.~Qiu, Hand-based feature level fusion for single sample
+  biometrics recognition, in: 2010 International Workshop on Emerging
+  Techniques and Challenges for Hand-Based Biometrics, 2010, pp. 1--4.
+
+\bibitem{Kong2004Competitive}
+A.-K. Kong, D.~Zhang, Competitive coding scheme for palmprint verification, in:
+  Proceedings of the 17th International Conference on Pattern Recognition
+  (ICPR), Vol.~1, 2004, pp. 520--523 Vol.1.
+
+\bibitem{Al-Nima2016ANovel}
+R.~R.~O. Al-Nima, S.~S. Dlay, W.~L. Woo, J.~A. Chambers, A novel biometric
+  approach to generate {ROC} curve from the probabilistic neural network, in:
+  24th IEEE Signal Processing and Communication Application Conference (SIU),
+  2016, pp. 141--144.
+
+\bibitem{He2016Deep}
+K.~{He}, X.~{Zhang}, S.~{Ren}, J.~{Sun}, Deep residual learning for image
+  recognition, in: 2016 IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR), 2016, pp. 770--778.
+\newblock \href {https://doi.org/10.1109/CVPR.2016.90}
+  {\path{doi:10.1109/CVPR.2016.90}}.
+
+\bibitem{omar2018deep}
+R.~R. Omar, T.~Han, S.~A.~M. Al-Sumaidaee, T.~Chen, Deep finger texture
+  learning for verifying people, IET Biometrics 8 (2019) 40--48(8).
+\newblock \href {https://doi.org/10.1049/iet-bmt.2018.5066}
+  {\path{doi:10.1049/iet-bmt.2018.5066}}.
+
+\bibitem{nanni2009multi}
+L.~Nanni, A.~Lumini, A multi-matcher system based on knuckle-based features,
+  Neural computing and applications 18~(1) (2009) 87--91.
+
+\bibitem{Radon_Transform}
+{D}etect lines using the {R}adon transform,
+  \url{https://uk.mathworks.com/help/images/detect-lines-using-the-radon-transform.html},.
+
+\bibitem{SIFT_FeatureExtreaction}
+{SIFT} feature extreaction,
+  \url{https://uk.mathworks.com/matlabcentral/fileexchange/50319-sift-feature-extreaction},.
+
+\bibitem{Petpon2009Face}
+A.~Petpon, S.~Srisuk, Face recognition with local line binary pattern, in: 5th
+  International Conference on Image and Graphics (ICIG), 2009, pp. 533--539.
+
+\bibitem{Efficient_LLBP}
+Efficient {LLBP} ({L}ine {L}ocal {B}inary {P}attern),
+  \url{https://uk.mathworks.com/matlabcentral/fileexchange/50058-efficient-llbp-line-local-binary-pattern}.
+
+\bibitem{young1998fundamentals}
+I.~T. Young, J.~J. Gerbrands, L.~J. Van~Vliet, Fundamentals of {I}mage
+  {P}rocessing, Delft University of Technology Delft, The Netherlands, 1998.
+
+\bibitem{al2018personal}
+R.~Al-Nima, M.~Al-Kaltakchi, S.~Al-Sumaidaee, S.~Dlay, W.~Woo, T.~Han,
+  J.~Chambers, Personal verification based on multi-spectral finger texture
+  lighting images, IET Signal Processing.
+
+\bibitem{al2018finger}
+M.~T. Al-Kaltakchi, R.~R. Omar, H.~N. Abdullah, T.~Han, J.~A. Chambers, Finger
+  texture verification systems based on multiple spectrum lighting sensors with
+  four fusion levels, Iraqi Journal of Information \& Communications Technology
+  1~(3) (2018) 1--16.
+
+\bibitem{ISO2012Information}
+{ISO}, {IEC}, Information technology — vocabulary — part 37: Biometrics,
+  International Standard {ISO}/{IEC} 2382-37 (2012(E)) 1--21.
+
+\bibitem{almahafzah2012multibiometric}
+H.~AlMahafzah, M.~Imran, H.~Sheshadri, Multibiometric: Feature level fusion
+  using {FKP} multi-instance biometric, IJCSI International Journal of Computer
+  Science Issues 9~(3).
+
+\bibitem{Databasever1PolyU3D2D}
+\href{http://www.comp.polyu.edu.hk/~csajaykr/myhome/
+  database_request/3dhand/Hand3D.htm}{The {H}ong {K}ong {P}olytechnic
+  {U}niversity {C}ontact-free 3{D}/2{D} {H}and {I}mages {D}atabase version
+  1.0}.
+\newline\urlprefix\url{http://www.comp.polyu.edu.hk/~csajaykr/myhome/
+  database_request/3dhand/Hand3D.htm}
+
+\bibitem{IIT-Delhi-PalmprintV1}
+\href{http://www4.comp.polyu.edu.hk/~csajaykr/IITD/Database_Palm.htm}{{IIT}
+  {D}elhi {P}almprint {I}mage {D}atabase version 1.0}.
+\newline\urlprefix\url{http://www4.comp.polyu.edu.hk/~csajaykr/IITD/Database_Palm.htm}
+
+\bibitem{kumar2008incorporating}
+A.~Kumar, Incorporating cohort information for reliable palmprint
+  authentication, in: 6th IEEE Indian Conference on Computer Vision, Graphics
+  \& Image Processing, ICVGIP'08., 2008, pp. 583--590.
+
+\bibitem{kumar2011personal}
+A.~Kumar, S.~Shekhar, Personal identification using multibiometrics rank-level
+  fusion, IEEE Transactions on Systems, Man, and Cybernetics, Part C:
+  Applications and Reviews 41~(5) (2011) 743--752.
+
+\bibitem{CASIAMS-PalmprintV1}
+\href{http://biometrics.idealtest.org/}{{CASIA}-{MS}-{P}almprint{V}1}.
+\newline\urlprefix\url{http://biometrics.idealtest.org/}
+
+\bibitem{Khan2011Contour}
+Z.~Khan, A.~Mian, Y.~Hu, Contour code: Robust and efficient multispectral
+  palmprint encoding for human recognition, in: IEEE International Conference
+  on Computer Vision (ICCV), 2011, pp. 1935--1942.
+
+\bibitem{khan2014multispectral}
+Z.~Khan, F.~Shafait, Y.~Hu, A.~Mian, Multispectral palmprint encoding and
+  recognition, arXiv preprint arXiv:1402.2941.
+
+\bibitem{band2006light}
+Y.~B. Band, Light and {M}atter: {E}lectromagnetism, {O}ptics, {S}pectroscopy
+  and {L}asers, Vol.~1, John Wiley \& Sons, 2006.
+
+\bibitem{PolyUFinTexVei}
+\href{http://www.comp.polyu.edu.hk/~csajaykr/fvdatabase.htm}{The {H}ong {K}ong
+  {P}olytechnic {U}niversity {F}inger {I}mage {D}atabase version 1.0}.
+\newline\urlprefix\url{http://www.comp.polyu.edu.hk/~csajaykr/fvdatabase.htm}
+
+\bibitem{PolyULRF}
+\href{http://www.comp.polyu.edu.hk/~csajaykr/fplr.htm}{The {H}ong {K}ong
+  {P}olytechnic {U}niversity {L}ow {R}esolution {F}ingerprint {D}atabase
+  (version 1.0)}.
+\newline\urlprefix\url{http://www.comp.polyu.edu.hk/~csajaykr/fplr.htm}
+
+\bibitem{Woods1997Generating}
+K.~Woods, K.~Bowyer, Generating {ROC} curves for artificial neural networks,
+  IEEE Transactions on Medical Imaging 16~(3) (1997) 329--337.
+
+\bibitem{saugirouglu2009Intelligent}
+{\c{S}}.~Sa{\u{g}}iro{\u{g}}lu, N.~{\"O}zkaya, An intelligent face features
+  generation system from fingerprints, Turkish Journal of Electrical
+  Engineering \& Computer Sciences 17~(2) (2009) 183--203.
+
+\bibitem{meshoul2010novel}
+S.~Meshoul, M.~Batouche, A novel approach for online signature verification
+  using fisher based probabilistic neural network, in: IEEE Symposium on
+  Computers and Communications (ISCC), IEEE, 2010, pp. 314--319.
+
+\bibitem{dasgupta2017negative}
+D.~Dasgupta, A.~Roy, A.~Nag, Negative authentication systems, in: Advances in
+  User Authentication, Springer, 2017, pp. 85--145.
+
+\bibitem{NEURO_technology}
+{NEURO}technology, \url{http://www.neurotechnology.com/}.
+
+\bibitem{PNN_MatlabCode}
+{PNN} matlab code,
+  \url{https://uk.mathworks.com/help/deeplearning/ref/newpnn.html},.
+
+\end{thebibliography}
